@@ -14,6 +14,11 @@
 - Most popular date
 - HealthCheck endpoint
 
+You can check swagger on:
+
+```http://localhost:8080/swagger-ui/#/```
+
+
 ### HOW TO RUN
 In order to start processing and expose log information you need to first start logstash and elasticsearch by running:
 
